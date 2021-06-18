@@ -3,7 +3,7 @@
 This application is based on Apple's Face ID and Touch ID. This application can be tested on simulator. App is created programmatically without any use of storyboard.
 
 ## Programming language used
-- Swift
+- Swift 5
 
 ## Deployment Info
 - iOS 14.5
